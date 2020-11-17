@@ -5,10 +5,12 @@
     <color name="colorAccent">#FFFFFF</color>
 
 
+    <color name="colorWhite">#FFFFFF</color>
     <color name="colorBackgroundWhite">#F1F1F1</color>
     <color name="colorBlack">#101010</color>
     <color name="colorPinkMenu">#D81B60</color>
     <color name="colorSoftPink">#F8E4EB</color>
+    <color name="colorFontSoftPink">#D1A6B5</color>
 
 
 </resources>
